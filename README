@@ -1,6 +1,8 @@
-<h4> 관련 서류 폴더</h4>
-/docs/
+관련 서류 폴더
+docs/
 
+lighttpd 서버 구동
+$ lighttpd -f lighttpd.conf
 
 ========
 lighttpd
